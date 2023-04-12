@@ -19,3 +19,5 @@
  # задание4(Шинкова)
  <h4 align = "center">сайт</h4>
  ![image](https://user-images.githubusercontent.com/130052042/231462753-c3820480-53d0-4c6c-8b3e-b242cfbc86f8.png)
+![image](https://user-images.githubusercontent.com/130052042/231464987-5e34c8b5-64d3-4a10-befc-e36663c02b01.png)
+![image](https://user-images.githubusercontent.com/130052042/231465053-7dfafd89-5ea6-4ad1-b3c1-c6b8a977b389.png)
